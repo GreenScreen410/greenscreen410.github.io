@@ -1,6 +1,6 @@
 ---
 title: "[백준] 24183 - Affischutskicket (C++)"
-date: 2023-10-10 10:48:14 +0900
+date: 2023-10-11 10:48:14 +0900
 categories: [Algorithm, BOJ]
 tags: []
 ---
