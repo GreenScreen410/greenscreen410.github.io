@@ -1,6 +1,6 @@
 ---
 title: "[백준] 18198 - Basketball One-on-One (C++)"
-date: 2023-10-16 11:08:09 +0900
+date: 2023-10-17 11:08:09 +0900
 categories: [Algorithm, BOJ]
 tags: []
 ---
