@@ -1,6 +1,6 @@
 ---
 title: "[백준] 30658 - Os últimos serão os primeiros (C++)"
-date: 2023-11-14 11:40:46 +0900
+date: 2023-11-15 11:40:46 +0900
 categories: [Algorithm, BOJ]
 tags: []
 ---
