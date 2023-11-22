@@ -1,0 +1,26 @@
+---
+title: "[백준] 15238 - Pirates (Python).md"
+date: 2023-11-22 11:13:04 +0900
+categories: [Algorithm, BOJ]
+tags: []
+---
+
+## 문제
+
+<https://www.acmicpc.net/problem/15238>
+
+## 풀이
+
+파이썬의 경우 Counter를 사용한다면 한줄 코딩이 가능합니다..
+
+```python
+N = int(input())
+S = input()
+
+most = max(set(S), key=S.count)
+print(most, S.count(most))
+```
+
+```python
+from typing import Counter;input();print(*Counter(input()).most_common()[0])
+```
