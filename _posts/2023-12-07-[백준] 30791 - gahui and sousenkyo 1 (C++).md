@@ -1,5 +1,5 @@
 ---
-title: "[백준] 30791 - gahui and sousenkyo 1 (C++).md"
+title: "[백준] 30791 - gahui and sousenkyo 1 (C++)"
 date: 2023-12-07 08:23:23 +0900
 categories: [Algorithm, BOJ]
 tags: []
